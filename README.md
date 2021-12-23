@@ -9,20 +9,20 @@
 
   <h2>Courses</h2>
 
-![a_01](https://user-images.githubusercontent.com/94993116/147296968-fcfc8ae1-5aee-4f5c-8134-88e0cd07cd55.jpg)
+![a_01](https://user-images.githubusercontent.com/94993116/147297303-bd4ab92c-b02a-4030-be24-85ca47441782.jpg)
 
-  <h2>Teachers>7h2>
+  <h2>Teachers</h2>
 
-![a_02](https://user-images.githubusercontent.com/94993116/147296970-41a66c5f-d201-4d7f-8a23-5ab50b8a6c0c.jpg)
+![a_02](https://user-images.githubusercontent.com/94993116/147297315-794976bc-d0a3-428f-8457-461ead23a548.jpg)
 
   <h2>Subjects</h2>
-  
-![a_03](https://user-images.githubusercontent.com/94993116/147296972-3d237d54-e8f3-4e34-8bee-afb5ebef127b.jpg)
+
+![a_03](https://user-images.githubusercontent.com/94993116/147297320-5c56c258-002e-4e4a-8393-b5bccea0fd55.jpg)
 
   <h2>Students</h2>
-  
-![a_04](https://user-images.githubusercontent.com/94993116/147296975-b033bab5-e42c-4f56-ba2a-fab503af3206.jpg)
+
+![a_04](https://user-images.githubusercontent.com/94993116/147297322-6b83cfe3-9525-4dbf-aff1-05823a391436.jpg)
 
   <h2>Grades</h2>
-  
-![a_05](https://user-images.githubusercontent.com/94993116/147296978-ac928783-b3ef-481d-9a5d-4a1167ba4cce.jpg)
+
+![a_05](https://user-images.githubusercontent.com/94993116/147297324-16aebee7-6e7f-48d5-a48f-65f3f3295c9d.jpg)
