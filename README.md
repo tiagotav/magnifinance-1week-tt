@@ -1,9 +1,9 @@
 # magnifinance-1week-tt
 One week tech test. Visual Studio Community 2022
-MVC 5.2.7
-EF 6.4.4
-Angular 13 (VisualCode ambiente LINUX OS Ubuntu)
-sqllocaldb 11
+<br >MVC 5.2.7
+<br >EF 6.4.4
+<br >Angular 13 (VisualCode ambiente LINUX OS Ubuntu)
+<br >sqllocaldb 11
 
 16-23 December techtest for Full-Stack position at 'MagniFinance'.
 
