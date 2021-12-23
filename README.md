@@ -1,5 +1,5 @@
 # magnifinance-1week-tt
-One week tech test. 
+One week tech test. Visual Studio Community 2022
 
 16-23 December techtest for Full-Stack position at 'MagniFinance'.
 ![_01](https://user-images.githubusercontent.com/94993116/147272675-4ded065d-a5f0-4d4e-a3a6-c76d89c2103e.png)
