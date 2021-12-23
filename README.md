@@ -7,22 +7,22 @@
 
 16-23 December techtest for Full-Stack position at 'MagniFinance'.
 
-<h2>Courses</h2>
+  <h2>Courses</h2>
 
-![__01](https://user-images.githubusercontent.com/94993116/147295744-c1b1ad99-9eed-4726-bcbb-cdeea294b91a.jpg)
+![a_01](https://user-images.githubusercontent.com/94993116/147296968-fcfc8ae1-5aee-4f5c-8134-88e0cd07cd55.jpg)
 
-<h2>Teachers</h2>
+  <h2>Teachers>7h2>
 
-![__02](https://user-images.githubusercontent.com/94993116/147295764-41ec1bc6-7708-463d-b229-8066576d2f7d.jpg)
+![a_02](https://user-images.githubusercontent.com/94993116/147296970-41a66c5f-d201-4d7f-8a23-5ab50b8a6c0c.jpg)
 
-<h2>Subjects</h2>
+  <h2>Subjects</h2>
+  
+![a_03](https://user-images.githubusercontent.com/94993116/147296972-3d237d54-e8f3-4e34-8bee-afb5ebef127b.jpg)
 
-![__03](https://user-images.githubusercontent.com/94993116/147295745-c0d61b34-6946-41be-98fa-a34a4a30aa85.jpg)
+  <h2>Students</h2>
+  
+![a_04](https://user-images.githubusercontent.com/94993116/147296975-b033bab5-e42c-4f56-ba2a-fab503af3206.jpg)
 
-<h2>Students</h2>
-
-![__04](https://user-images.githubusercontent.com/94993116/147295767-de2c1f34-d02e-4113-a599-9f9194ee2e99.jpg)
-
-<h2>Grades</h2>
-
-![__05](https://user-images.githubusercontent.com/94993116/147295768-1c449902-36bf-4074-b4b9-b79f85efaeca.jpg)
+  <h2>Grades</h2>
+  
+![a_05](https://user-images.githubusercontent.com/94993116/147296978-ac928783-b3ef-481d-9a5d-4a1167ba4cce.jpg)
