@@ -2,10 +2,8 @@
 One week tech test. 
 
 16-23 December techtest for Full-Stack position at 'MagniFinance'.
-
-
-![01](https://user-images.githubusercontent.com/94993116/147272115-82327c00-c1ea-4583-997c-525e4f7ff479.png)
-![02](https://user-images.githubusercontent.com/94993116/147272128-f65a58a7-283e-49bb-9874-6ee2e58eb601.png)
-![03](https://user-images.githubusercontent.com/94993116/147272132-5d1e93f2-fb34-4a32-a6e4-0470cc54004c.png)
-![04](https://user-images.githubusercontent.com/94993116/147272143-bd3fb1f9-d1b5-4640-95e4-4e403ee06a67.png)
-![05](https://user-images.githubusercontent.com/94993116/147272146-5bae1645-c01f-496a-b6b4-fd34e975bcca.png)
+![_01](https://user-images.githubusercontent.com/94993116/147272675-4ded065d-a5f0-4d4e-a3a6-c76d89c2103e.png)
+![_02](https://user-images.githubusercontent.com/94993116/147272685-2714bcdc-5c71-4dad-b1af-25a385d89708.png)
+![_03](https://user-images.githubusercontent.com/94993116/147272692-a68b40f4-5ed9-468a-b3cc-6f097e0827da.png)
+![_04](https://user-images.githubusercontent.com/94993116/147272693-eadbdb6a-7eb1-486a-ad29-2903698b367a.png)
+![_05](https://user-images.githubusercontent.com/94993116/147272697-47124ae5-765c-4f09-9492-e4fdd260152f.png)
