@@ -1,5 +1,5 @@
 # magnifinance-1week-tt
-One week tech test. Visual Studio Community 2022
+<b>One week tech test from 16 to 23 of December made on Visual Studio Community 2022</b>
 <br >MVC 5.2.7
 <br >EF 6.4.4
 <br >Angular 13 (VisualCode ambiente LINUX OS Ubuntu)
