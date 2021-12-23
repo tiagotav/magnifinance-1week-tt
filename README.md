@@ -8,6 +8,7 @@
 16-23 December techtest for Full-Stack position at 'MagniFinance'.
 
 <h2>Courses</h2>
+
 ![__01](https://user-images.githubusercontent.com/94993116/147295744-c1b1ad99-9eed-4726-bcbb-cdeea294b91a.jpg)
 
 <h2>Teachers</h2>
