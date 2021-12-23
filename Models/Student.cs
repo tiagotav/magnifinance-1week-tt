@@ -15,6 +15,7 @@ namespace mfuni.Models
         public DateTime BDay { get; set; }
         public int RNumber { get; set; }
         public int Course_id { get; set; }
+        public string Course_Name { get; set; }
         public Course Course { get; set; }
         public double avg { get; set; }
     }

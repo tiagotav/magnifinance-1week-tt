@@ -23,7 +23,10 @@ namespace mfuni.Controllers
         // GET: Students
         public ActionResult Index()
         {
+
+
             var results = db.Students.ToList();
+            
             var list = JsonConvert.SerializeObject(results,
             Formatting.None,
             new JsonSerializerSettings()
@@ -67,13 +70,14 @@ namespace mfuni.Controllers
                 if (student != null)
                 {
                         Course crs = db.Courses.Find(student.Course_id);
-
+                        
                     if (crs != null)
                     {
                         crs.Students += 1;
                         db.Entry(crs).State = EntityState.Modified;
                         db.SaveChanges();
 
+                        student.Course_Name = crs.Name;
                         student.avg = 0;
 
                         db.Students.Add(student);

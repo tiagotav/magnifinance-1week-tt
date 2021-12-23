@@ -77,7 +77,7 @@ namespace mfuni.Controllers
         // Para obter mais detalhes, confira https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         //[ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "id,val,Student_id,Subject_id,Subject_Name,avg")] Grade grade)
+        public ActionResult Create([Bind(Include = "Subject_id,val,Student_id,Subject_id,Subject_Name,avg")] Grade grade)
         {
             if (ModelState.IsValid)
             {
